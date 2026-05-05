@@ -17,7 +17,7 @@ For more efficient fishing you can use OP Autoclicker. (it also needs administra
 
 RU:
 1. Поменяйте разрешение на 1280x720 в НТЕ
-2. Установите питон и необходимые библиотеки на него
+2. Установите питон
 3. Откройте cmd от имени администратора
 4. Напишите следующую команду:
 pip install -r req.txt
