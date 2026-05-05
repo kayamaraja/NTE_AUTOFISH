@@ -65,7 +65,7 @@ def run_bot():
     running = False
     print("F8 - Старт, F9 - Стоп, ESC - Выход")
 
-    with mss.mss() as sct:
+    with mss.MSS() as sct:
         while True:
             if keyboard.is_pressed("f8"): running = True
             if keyboard.is_pressed("f9"): 
