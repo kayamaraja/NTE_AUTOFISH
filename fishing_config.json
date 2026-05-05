@@ -1,0 +1,18 @@
+{
+  "capture_region": {
+    "left": 721,
+    "top": 212,
+    "width": 487,
+    "height": 37
+  },
+  "fish_hsv_low": [20, 70, 140],
+  "fish_hsv_high": [40, 255, 255],
+  "line_hsv_low": [80, 140, 140],
+  "line_hsv_high": [100, 255, 255],
+  "left_key": "a",
+  "right_key": "d",
+  "dead_zone_px": 15,
+  "min_blob_area": 5,
+  "target_fps": 30,
+  "show_mask_windows": true
+}
