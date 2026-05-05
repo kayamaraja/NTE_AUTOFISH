@@ -1,7 +1,8 @@
 # NTE_AUTOFISH
 ENG:
-1. Install python with PATH access
-2. Open start.bat
+1. Install AUTOFISH folder
+2. Install python with PATH access
+3. Open start.bat and enjoy
 
 Dont move window around! Script worked in a certain area of your monitor
 
@@ -9,8 +10,9 @@ For more efficient fishing you can use OP Autoclicker, it can restarting a fishi
 
 
 RU:
-1. Установите python с галочкой дающей доступ к PATH
-2. Откройте start.bat
+1. Установите прикрепленную папку AUTOFISH
+2. Установите python с галочкой дающей доступ к PATH
+3. Откройте start.bat и радуйтесь
 
 Не передвигайте окно! Скрипт работает в определенной зоне вашего монитора
 
