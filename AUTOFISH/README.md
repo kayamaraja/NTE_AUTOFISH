@@ -1,4 +1,5 @@
 # NTE_AUTOFISH
+ENG:
 1. Install python with PATH access
 2. Open start.bat
 
