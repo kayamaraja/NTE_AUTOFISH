@@ -6,7 +6,6 @@
 pip install -r req.txt
 
 cd C:\Users\Fang Yuan\Desktop\dodik        ((((after cd write your location of folder with script files))))
- 
 python fishing_bot.py
 
 5. In game press F8 and start a fishing
@@ -24,7 +23,6 @@ RU:
 pip install -r req.txt
 
 cd C:\Users\Fang Yuan\Desktop\dodik         ((((после cd нужно указать расположение вашей папки с файлами скрипта))))
-
 python fishing_bot.py
 
 5. В игре нажмите F8 и начните рыбачить
