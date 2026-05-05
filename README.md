@@ -4,6 +4,7 @@
 3. Open cmd with administrator permission
 4. Enter next commands: 
 cd C:\Users\Fang Yuan\Desktop\dodik // after cd write your location of folder with files
+
 python fishing_bot.py
 5. In game press F8 and start a fishing
 
@@ -18,6 +19,7 @@ RU:
 3. Откройте cmd от имени администратора
 4. Напишите следующие команды:
 cd C:\Users\Fang Yuan\Desktop\dodik // после cd нужно указать расположение вашей папки с файлами
+
 python fishing_bot.py
 5. В игре нажмите F8 и начните рыбачить
 
