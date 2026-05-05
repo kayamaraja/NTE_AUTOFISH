@@ -1,8 +1,7 @@
 # NTE_AUTOFISH
-1. Change resolution to 1280x720 at NTE
-2. Install python and needed libraries
-3. Open cmd with administrator permission
-4. Enter next commands:
+1. Install python and needed libraries
+2. Open cmd with administrator permission
+3. Enter next commands:
 
 pip install -r req.txt
 
@@ -10,7 +9,7 @@ cd C:\Users\Fang Yuan\Desktop\dodik        ((((after cd write your location of f
 
 python fishing_bot.py
 
-5. In game press F8 and start a fishing
+4. In game press F8 and start a fishing
 
 Dont move window around! Script worked in a certain area of your monitor
 
@@ -18,10 +17,9 @@ For more efficient fishing you can use OP Autoclicker. (it also needs administra
 
 
 RU:
-1. Поменяйте разрешение на 1280x720 в НТЕ
-2. Установите питон с наст
-3. Откройте cmd от имени администратора
-4. Напишите следующие команды:
+1. Установите питон с наст
+2. Откройте cmd от имени администратора
+3. Напишите следующие команды:
 
 pip install -r req.txt
 
@@ -29,6 +27,6 @@ cd C:\Users\Fang Yuan\Desktop\dodik         ((((после cd нужно ука�
 
 python fishing_bot.py
 
-5. В игре нажмите F8 и начните рыбачить
+4. В игре нажмите F8 и начните рыбачить
 
 Не передвигайте окно! Скрипт работает в определенной зоне вашего монитора
