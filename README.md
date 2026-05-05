@@ -19,7 +19,7 @@ For more efficient fishing you can use OP Autoclicker. (it also needs administra
 
 RU:
 1. Поменяйте разрешение на 1280x720 в НТЕ
-2. Установите питон
+2. Установите питон с наст
 3. Откройте cmd от имени администратора
 4. Напишите следующие команды:
 
