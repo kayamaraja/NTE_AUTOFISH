@@ -1,9 +1,9 @@
 {
   "capture_region": {
-    "left": 721,
-    "top": 212,
-    "width": 487,
-    "height": 37
+    "left": 612,
+    "top": 45,
+    "width": 696,
+    "height": 45
   },
   "fish_hsv_low": [20, 70, 140],
   "fish_hsv_high": [40, 255, 255],
