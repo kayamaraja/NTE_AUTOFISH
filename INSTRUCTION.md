@@ -1,19 +1,16 @@
 # NTE_AUTOFISH
 1. Install python with PATH access
-2. Open cmd with administrator permission
+2. Open cmd with admin permissions
 3. Enter next commands:
 
 pip install -r req.txt
 
-cd C:\Users\Fang Yuan\Desktop\dodik        ((((after cd write your location of folder with script files))))
-
-python fishing_bot.py
-
-4. In game press F8 and start a fishing
+4. Open start.bat
+5. In game start fishing and press F8
 
 Dont move window around! Script worked in a certain area of your monitor
 
-For more efficient fishing you can use OP Autoclicker. (it also needs administrator permission for correct work)
+For more efficient fishing you can use OP Autoclicker, it can restarting a fishing proccess. (it also needs administrator permission for correct work)
 
 
 RU:
@@ -23,10 +20,9 @@ RU:
 
 pip install -r req.txt
 
-cd C:\Users\Fang Yuan\Desktop\dodik         ((((после cd нужно указать расположение вашей папки с файлами скрипта))))
+4. Откройте start.bat
 
-python fishing_bot.py
+5. В игре нажмите F8 и начните рыбачить
 
-4. В игре нажмите F8 и начните рыбачить
-
+Для более эффективной рыбалки вы можете использовать OP Autoclicker, он может перезапускать ловлю рыбы имитируя нажатие буквы F (ему тоже нужны права администратора)
 Не передвигайте окно! Скрипт работает в определенной зоне вашего монитора
