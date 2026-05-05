@@ -1,5 +1,5 @@
 # NTE_AUTOFISH
-1. Install python and needed libraries
+1. Install python with PATH access
 2. Open cmd with administrator permission
 3. Enter next commands:
 
@@ -17,7 +17,7 @@ For more efficient fishing you can use OP Autoclicker. (it also needs administra
 
 
 RU:
-1. Установите питон с наст
+1. Установите python с галочкой дающей доступ к PATH
 2. Откройте cmd от имени администратора
 3. Напишите следующие команды:
 
