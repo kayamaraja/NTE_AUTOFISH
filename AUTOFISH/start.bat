@@ -1,26 +1,16 @@
 @echo off
 setlocal enabledelayedexpansion
 
-fsutil dirty query %systemdrive% >nul || (powershell start-process "%~0" -verb runas && exit /b)
+fsutil dirty query %systemdrive% >nul 2>&1 || (
+    powershell -Command "Start-Process -FilePath '%~f0' -Verb RunAs"
+    exit /b
+)
 
 cd /d "%~dp0"
 
-python -m pip --version >nul 2>&1
-if %errorlevel% neq 0 (
-    python -m ensurepip
-    python -m pip install --upgrade pip
-)
+py -m pip install -r req.txt
 
-python -c "import pkg_resources; ps = [l.split('=')[0].split('>')[0].strip() for l in open('req.txt') if l.strip() and not l.startswith('#')]; pkg_resources.require(ps)" >nul 2>&1
-
-if %errorlevel% neq 0 (
-    python -m pip install -r req.txt
-    if %errorlevel% neq 0 (
-        echo [ERROR]
-        pause
-        exit /b
-    )
-)
-
+echo Starting Fishing Bot...
 py fishing_bot.py
+
 pause
