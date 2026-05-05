@@ -10,7 +10,7 @@ python fishing_bot.py
 
 Dont move window around! Script worked in a certain area of your monitor
 
-For more efficient fishing you can use OP Autoclicker. (it too needs administrator permission for correct work)
+For more efficient fishing you can use OP Autoclicker. (it also needs administrator permission for correct work)
 
 
 RU:
