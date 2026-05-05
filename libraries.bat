@@ -6,6 +6,6 @@ if %errorLevel% neq 0 (
     exit /b
 )
 python -m pip install --upgrade pip
-pip install -r requirements.txt
+pip install -r req.txt
 python fishing_bot.py[cite: 1, 3]
 pause
