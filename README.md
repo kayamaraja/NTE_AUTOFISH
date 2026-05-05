@@ -2,7 +2,7 @@
 1. Change resolution to 1280x720 at NTE
 2. Install python and needed libraries
 3. Open cmd with administrator permission
-4. Enter next commands
+4. Enter next command:
 cd C:\Users\Fang Yuan\Desktop\dodik // after cd write your location of folder with files
 5. Enter next command: 
 python fishing_bot.py
@@ -19,7 +19,7 @@ RU:
 3. Откройте cmd от имени администратора
 4. Напишите следующую команду:
 cd C:\Users\Fang Yuan\Desktop\dodik // после cd нужно указать расположение вашей папки с файлами
-5. Напишите следующую команду
+5. Напишите следующую команду:
 python fishing_bot.py
 6. В игре нажмите F8 и начните рыбачить
 
