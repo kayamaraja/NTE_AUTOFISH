@@ -3,8 +3,8 @@
 2. Install python and needed libraries
 3. Open cmd with administrator permission
 4. Enter next commands:
-pip install -r req.txt
 
+pip install -r req.txt
 cd C:\Users\Fang Yuan\Desktop\dodik        ((((after cd write your location of folder with script files))))
 python fishing_bot.py
 
@@ -20,8 +20,8 @@ RU:
 2. Установите питон
 3. Откройте cmd от имени администратора
 4. Напишите следующие команды:
-pip install -r req.txt
 
+pip install -r req.txt
 cd C:\Users\Fang Yuan\Desktop\dodik         ((((после cd нужно указать расположение вашей папки с файлами скрипта))))
 python fishing_bot.py
 
